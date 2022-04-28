@@ -1,0 +1,83 @@
+body {
+    padding: 0px 10px 10px 10px;
+    border: 1px solid blue;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    
+      
+}
+
+h1 {
+    padding: 20px 10px 0px 10px;
+    border: 1px solid red;
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+
+main {
+    padding: 40px 40px 40px 0px;
+    border: 1px solid lightgreen;
+    margin-bottom: 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    font-size: 20px;
+    font-style: italic;
+    
+    
+}
+
+#lawyer {
+    padding: 0px 15px 0px 0px;
+    text-decoration: none;
+    color: black;
+}
+
+#se {
+    padding: 0px 15px 0px 0px;
+    text-decoration: none;
+    color: black;
+}
+
+#ep {
+    padding: 0px 15px 0px 0px;
+    text-decoration: none;
+    color: black;
+}
+
+#box {
+    padding: 0px 15px 0px 0px;
+    text-decoration: none;
+    color: black;
+}
+
+
+footer {
+    margin: 20px 0px 0px 0px;
+    
+    border: 1px solid green;
+    
+}
+
+address {
+    margin-bottom: 0px;
+}
+
+.social_media {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#facebook {
+    padding-right: 15px;
+}
+
+#linkedin {
+    padding-left: 15px;
+}
